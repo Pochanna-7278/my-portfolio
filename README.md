@@ -1,1 +1,3 @@
 # my-portfolio
+
+Building this personal portfolio website using only HTML and Tailwind CSS has been a rewarding experience. It helped me strengthen my understanding of responsive design, utility-first CSS, and clean UI structure. I explored Tailwind’s powerful layout tools like flex and grid, practiced semantic HTML, and learned to organize a project professionally with clear folder structures. This project also gave me hands-on experience in creating a fully responsive site without relying on custom CSS or JavaScript. Overall, it improved my confidence in frontend development and made me more comfortable working with modern styling frameworks.
